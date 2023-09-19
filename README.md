@@ -26,9 +26,6 @@ https://blog.naver.com/chapjjang/222485287937
 <br>
 <br>
 
-## 💬
-시간을 단축하기 위해 순수 JSP로만 구현해보았습니다.
-<br><br><br>
 
 
 
